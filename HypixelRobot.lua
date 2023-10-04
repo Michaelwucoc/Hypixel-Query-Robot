@@ -8,7 +8,7 @@ function main(m)
     -- 查询玩家uuid
     --
     -- 外挂lua包存储路径
-    package.path = "/storage/emulated/0/luaPackages/?.lua;" .. package.path
+    package.path = "/storage/emulated/0/Download/WeChat/HypixelRobot.lua;" .. package.path
     -- 必需依赖
     local json = require "json"
     --
